@@ -7,7 +7,6 @@
 
 ☕️ Aeropress, Pour-over
 
-🎮  [my game hosted in my room](https://game.safesuk.dev/)
 <!--
 **b5710546232/b5710546232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
